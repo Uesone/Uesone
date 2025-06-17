@@ -3,25 +3,33 @@
 
 ---
 
-- 🌍 I’ve lived and worked across Australia, China and Southeast Asia  
-- 💻 I build web applications with clean architecture and great user experience  
-- 🧠 I love solving real problems through thoughtful code and teamwork  
-- 📱 Currently exploring **Flutter & Dart** for mobile and cross-platform apps  
-- 🎨 Also passionate about **pixel art** and interactive UI design — creative code is good code
+<div align="center">
+
+🌍 I’ve lived and worked across Australia, China and Southeast Asia  
+💻 I build web applications with clean architecture and great user experience  
+🧠 I love solving real problems through thoughtful code and teamwork  
+📱 Currently exploring <strong>Flutter & Dart</strong> for mobile and cross-platform apps  
+🎨 Also passionate about <strong>pixel art</strong> and interactive UI design — creative code is good code
+
+</div>
 
 ---
 
-### 📫 Reach Me
+<h3 align="center">📫 Reach Me</h3>
 
-- 📧 Email: `umberto12amoroso@gmail.com`  
-- 💼 LinkedIn: [linkedin.com/in/umberto-amoroso-387394167](https://linkedin.com/in/umberto-amoroso-387394167)  
-- 🌐 Portfolio: _Coming soon_
+<div align="center">
+
+📧 Email: <code>umberto12amoroso@gmail.com</code>  
+💼 LinkedIn: <a href="https://linkedin.com/in/umberto-amoroso-387394167" target="_blank">linkedin.com/in/umberto-amoroso</a>  
+🌐 Portfolio: <em>Coming soon</em>
+
+</div>
 
 ---
 
-### 🧰 Tech Stack
+<h3 align="center">🧰 Tech Stack</h3>
 
-#### 🎨 Front-End
+<h4 align="center">🎨 Front-End</h4>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
@@ -34,20 +42,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="40" alt="Vite" />
 </p>
 
-#### 🛠️ Back-End
+<h4 align="center">🛠️ Back-End</h4>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
 </p>
 
-#### 📱 Mobile
+<h4 align="center">📱 Mobile</h4>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart" />
 </p>
 
-#### ⚙️ Tools
+<h4 align="center">⚙️ Tools</h4>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
@@ -57,10 +65,14 @@
 
 ---
 
-### 🎨 A bit of pixel art
+<h3 align="center">🎨 A bit of pixel art</h3>
 
-> I’m experimenting with pixel-based UI for portfolio and app interfaces.  
-> I enjoy mixing design and development to create **playful yet functional** user experiences.
+<div align="center">
+
+I’m experimenting with pixel-based UI for portfolio and app interfaces.  
+I enjoy mixing design and development to create <strong>playful yet functional</strong> user experiences.
+
+</div>
 
 <p align="center">
   <img src="https://media.giphy.com/media/2A75RyXVzzSI2bx4Gj/giphy.gif" width="200"/>
@@ -68,8 +80,7 @@
 
 ---
 
-> _"Good code builds things. Great code builds experiences."_  
-> — Umberto Amoroso
+<p align="center"><i>"Good code builds things. Great code builds experiences."</i><br>
+— Umberto Amoroso</p>
 
 ---
-
