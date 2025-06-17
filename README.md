@@ -80,7 +80,7 @@ I enjoy mixing design and development to create <strong>playful yet functional</
 
 ---
 
-<p align="center"><i>"Good code builds things. Great code builds experiences."</i><br>
+<p align="center"><i>"Code is like pizza: even when it’s bad, someone still tries to deploy it."</i><br>
 — Umberto Amoroso</p>
 
 ---
