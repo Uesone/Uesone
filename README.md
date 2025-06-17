@@ -14,7 +14,7 @@
 ### 📫 Reach Me
 
 - 📧 Email: `umberto12amoroso@gmail.com`  
-- 💼 LinkedIn: [linkedin.com/in/umbertoamoroso](https://linkedin.com/in/umbertoamoroso)  
+- 💼 LinkedIn: [linkedin.com/in/umberto-amoroso-387394167](https://linkedin.com/in/umberto-amoroso-387394167)  
 - 🌐 Portfolio: _Coming soon_
 
 ---
