@@ -84,3 +84,6 @@ I enjoy mixing design and development to create <strong>playful yet functional</
 — Umberto Amoroso</p>
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Uesone&color=blue" alt="Profile views"/>
+</p>
